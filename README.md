@@ -18,9 +18,7 @@ layout:
 
 # Welcome to Y2
 
-Y2 is your go-to platform for agentic, persistent, and tailored intelligence research delivered straight to your inbox, sms, or pushed to your webhook of choice
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Y2 is your go-to platform for agentic, persistent, and tailored intelligence research delivered straight to your inbox, sms, or pushed to your webhook of choice.
 
 ### Jump right in
 
